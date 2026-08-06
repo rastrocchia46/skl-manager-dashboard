@@ -11,7 +11,7 @@ Dashboard statica per GitHub Pages della Saviano Kings League.
 
 ## Pubblicazione su GitHub Pages
 
-1. Crea un repository GitHub, ad esempio `skl-manager-dashboard`.
+1. Crea un repository GitHub, ad esempio `skl-manager-dashboard`
 2. Carica questi quattro file nella root del repository.
 3. Vai in **Settings → Pages**.
 4. In **Build and deployment**, scegli:
